@@ -12,5 +12,7 @@ public class Task2 {
 
     Home, Received docs, My uploads, Clients, Invitations, Users, Leads, Bookkeeping, 1099 form, Reconciliation
      */
-    
+    public static void main(String[] args) {
+
+    }
 }
